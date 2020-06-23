@@ -14,24 +14,20 @@ section {
   position: relative;
   height: 205px;
   overflow:auto;
+  margin: 10px;
+  border: 1px solid black;
 }
 
 section.Chicken {
   background-color: #7B68EE;
-  margin: 10px;
-  border: 1px solid black;
 }
 
 section.Beef {
   background-color: #F08080;
-  margin: 10px;
-  border: 1px solid black;
 }
 
 section.Sushi {
   background-color: #7B68EE;
-  margin: 10px;
-  border: 1px solid black;
 }
 
 section.Chicken > h2 {
