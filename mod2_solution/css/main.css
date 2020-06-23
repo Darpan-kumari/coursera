@@ -10,6 +10,12 @@ body {
   background-color: #FFE4E1;
 }
 
+section {
+  position: relative;
+  height: 205px;
+  overflow:auto;
+}
+
 section.Chicken {
   background-color: #7B68EE;
   margin: 10px;
@@ -68,7 +74,7 @@ section > p {
   margin-top: 30px;
   margin-left: 10px;
   margin-right: 10px;
-
+  font-family: Helvetica Times Serif;
 }
 
 .row {
